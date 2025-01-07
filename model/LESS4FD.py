@@ -13,7 +13,6 @@ from tqdm import tqdm
 from sklearn.metrics import accuracy_score,precision_score, recall_score, f1_score, roc_auc_score, average_precision_score, roc_curve, auc
 
 
-
 class LESS4FD(nn.Module):
     def __init__(self, dataset, args):
         super(LESS4FD, self).__init__()
@@ -53,8 +52,7 @@ class LESS4FD(nn.Module):
 class GPR_prop(MessagePassing):
     '''
     propagation class for GPR_GNN
-    是一個基於圖的訊息傳播層，支持不同初始化策略 (SGC, PPR, NPPR, Random, WS)。
-    提供自適應的 temp 參數，用於調整多層消息傳播的權重，提升了圖卷積的靈活性。
+    基於圖的訊息傳播層，支持不同初始化策略 (SGC, PPR, NPPR, Random, WS)。
     '''
 
     def __init__(self, K, alpha, Init='PPR', Gamma=None, bias=True, **kwargs):
