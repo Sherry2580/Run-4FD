@@ -9,6 +9,8 @@ from sklearn.model_selection import StratifiedShuffleSplit, StratifiedKFold
 import os
 from utils import load_data
 
+# python main.py --dataset Random_test --num_topics 5
+
 def run_ours():
     args = arg_parser()
     device = torch.device(f"cuda" if torch.cuda.is_available() else "cpu")
