@@ -1,0 +1,7 @@
+__pycache__/
+splits/
+update_formate.ipynb
+*.out
+*.pt
+*.edgelist
+*.csv
