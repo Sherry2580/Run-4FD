@@ -1,7 +1,10 @@
 __pycache__/
 splits/
 update_formate.ipynb
+entity_responses.xlsx
+Entity_Embeddings.xlsx
 *.out
 *.pt
 *.edgelist
 *.csv
+.env
