@@ -9,8 +9,7 @@ import argparse
 
 
 # 處理新聞、實體和主題節點的特徵和關聯 (news, entity, topic)。
-# 通過異構圖 (HeteroData) 組織數據，生成多類型節點與邊的結構。
-# 根據不同dataset改絕對路徑。
+# 異構圖 (HeteroData) 組織數據，生成多類型節點與邊的結構。
 # python build_graph.py --dataset Random_test --num_topics 5
 
 def load_edge(dataset,num_topics,node):
