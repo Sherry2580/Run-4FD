@@ -65,7 +65,7 @@ def arg_parser():
 
     # =========== Dataset settings ======================
     parser.add_argument('--dataset', type=str, default="MM COVID",
-                        choices=['MM COVID', 'ReCOVery','MC Fake', 'LIAR', 'PAN2020', 'Random_test', 'PolitiFact'], help='dataset')
+                        choices=['MM COVID', 'ReCOVery','MC Fake', 'LIAR', 'PAN2020', 'Random_test', 'PolitiFact', 'Knowledge_PolitiFact'], help='dataset')
     parser.add_argument("--tr", type=float, default=0.8,
                         help='rate of training data')
     parser.add_argument("--vr", type=float, default=0.1,

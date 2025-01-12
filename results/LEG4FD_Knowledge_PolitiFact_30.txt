@@ -1,0 +1,72 @@
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL ACC] 0.8898+-0.0379 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL PRECISION] 0.9049+-0.0394 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL RECALL] 0.8751+-0.0458 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL F1] 0.8715+-0.0431 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL AUC] 0.8751+-0.0458 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL APR] 0.7477+-0.0827 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL ACC] 0.8898+-0.0400 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL PRECISION] 0.8867+-0.0388 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL RECALL] 0.8935+-0.0462 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL F1] 0.8772+-0.0443 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL AUC] 0.8935+-0.0462 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL APR] 0.7546+-0.0875 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL ACC] 0.8694+-0.0389 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL PRECISION] 0.8663+-0.0293 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL RECALL] 0.8603+-0.0465 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL F1] 0.8507+-0.0474 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL AUC] 0.8603+-0.0465 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL APR] 0.7018+-0.0868 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL ACC] 0.8776+-0.0341 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL PRECISION] 0.8792+-0.0436 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL RECALL] 0.8644+-0.0323 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL F1] 0.8599+-0.0387 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL AUC] 0.8644+-0.0323 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL APR] 0.7276+-0.0913 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL ACC] 0.8673+-0.0319 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL PRECISION] 0.8779+-0.0236 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL RECALL] 0.8616+-0.0390 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL F1] 0.8555+-0.0340 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL AUC] 0.8616+-0.0390 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL APR] 0.7279+-0.0558 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL ACC] 0.8857+-0.0476 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL PRECISION] 0.8852+-0.0430 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL RECALL] 0.8865+-0.0547 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL F1] 0.8738+-0.0503 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL AUC] 0.8865+-0.0547 
+
+LEG4FD 10-fold test on Knowledge_PolitiFact_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL APR] 0.7619+-0.0817 
+
