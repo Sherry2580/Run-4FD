@@ -9,3 +9,4 @@ knowledge_results.xlsx
 *.edgelist
 *.csv
 .env
+Data/GossipCop/Embeddings/entity_embeddings.npy
