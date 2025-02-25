@@ -44,9 +44,9 @@ def arg_parser():
                         help='beta for prediction.')
 
     # =========== GPR settings ======================
-    parser.add_argument('--lg_k', type=int, default=10,
+    parser.add_argument('--lg_k', type=int, default=5,  #################Change origin:10
                         help='k hop for one view')
-    parser.add_argument('--gg_k', type=int, default=20,
+    parser.add_argument('--gg_k', type=int, default=25,   #################Change origin:20
                         help='k hop for another view')
     parser.add_argument('--dprate', type=float, default=0.5)
     parser.add_argument('--Init', type=str,
