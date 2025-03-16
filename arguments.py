@@ -38,7 +38,7 @@ def arg_parser():
     parser.add_argument('--lambda_ce', type=float, default=0.5,
                         help='lambda ce.')
     
-    parser.add_argument('--lambda_g', type=float, default=1,
+    parser.add_argument('--lambda_g', type=float, default=0.5,
                         help='lambda g.')
     parser.add_argument('--beta', type=float, default=0.5,
                         help='beta for prediction.')
@@ -65,7 +65,7 @@ def arg_parser():
 
     # =========== Dataset settings ======================
     parser.add_argument('--dataset', type=str, default="MM COVID",
-                        choices=['MM COVID', 'ReCOVery','MC Fake', 'LIAR', 'PAN2020', 'Random_test', 'PolitiFact', 'Knowledge_PolitiFact', 'GossipCop', 'Knowledge_GossipCop'], help='dataset')
+                        choices=['MM COVID', 'ReCOVery','MC Fake', 'LIAR', 'PAN2020', 'Random_test', 'PolitiFact', 'Knowledge_PolitiFact', 'GossipCop', 'Knowledge_GossipCop', 'GossipCop_4000_news', 'Knowledge_GossipCop_4000_news', 'Knowledge_more_GossipCop', 'Knowledge_more5_GossipCop', 'Knowledge_more10_GossipCop', 'Knowledge_more20_GossipCop'], help='dataset')
     parser.add_argument("--tr", type=float, default=0.8,
                         help='rate of training data')
     parser.add_argument("--vr", type=float, default=0.1,
