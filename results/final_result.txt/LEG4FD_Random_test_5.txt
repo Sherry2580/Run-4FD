@@ -1,0 +1,24 @@
+LEG4FD 10-fold test on Random_test_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL ACC] 0.9000+-0.1528 
+
+LEG4FD 10-fold test on Random_test_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL PRECISION] 0.8000+-0.3055 
+
+LEG4FD 10-fold test on Random_test_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL RECALL] 0.8500+-0.2291 
+
+LEG4FD 10-fold test on Random_test_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL F1] 0.8200+-0.2750 
+
+LEG4FD 10-fold test on Random_test_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL AUC] nan+-nan 
+
+LEG4FD 10-fold test on Random_test_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL APR] 0.4000+-0.4163 
+
+LEG4FD 10-fold test on Random_test_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL ACC] 0.9000+-0.1528 
+
+LEG4FD 10-fold test on Random_test_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL PRECISION] 0.8417+-0.2647 
+
+LEG4FD 10-fold test on Random_test_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL RECALL] 0.8750+-0.2016 
+
+LEG4FD 10-fold test on Random_test_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL F1] 0.8467+-0.2441 
+
+LEG4FD 10-fold test on Random_test_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL AUC] nan+-nan 
+
+LEG4FD 10-fold test on Random_test_epochs_200_cr_0.5_lgk_10_ggk_20_ce_0.5: [FINAL APR] 0.3167+-0.3833 
+

@@ -1,0 +1,24 @@
+LEG4FD 10-fold test on GossipCop_4000_news_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL ACC] 0.8340+-0.0138 
+
+LEG4FD 10-fold test on GossipCop_4000_news_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL PRECISION] 0.8431+-0.0887 
+
+LEG4FD 10-fold test on GossipCop_4000_news_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL RECALL] 0.7525+-0.0284 
+
+LEG4FD 10-fold test on GossipCop_4000_news_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL F1] 0.7298+-0.0324 
+
+LEG4FD 10-fold test on GossipCop_4000_news_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL AUC] 0.7525+-0.0284 
+
+LEG4FD 10-fold test on GossipCop_4000_news_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL APR] 0.4096+-0.0457 
+
+LEG4FD 10-fold test on GossipCop_4000_news_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL ACC] 0.8350+-0.0160 
+
+LEG4FD 10-fold test on GossipCop_4000_news_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL PRECISION] 0.8508+-0.0803 
+
+LEG4FD 10-fold test on GossipCop_4000_news_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL RECALL] 0.7613+-0.0191 
+
+LEG4FD 10-fold test on GossipCop_4000_news_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL F1] 0.7405+-0.0184 
+
+LEG4FD 10-fold test on GossipCop_4000_news_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL AUC] 0.7613+-0.0191 
+
+LEG4FD 10-fold test on GossipCop_4000_news_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL APR] 0.4282+-0.0310 
+

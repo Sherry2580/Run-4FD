@@ -1,0 +1,24 @@
+LEG4FD 10-fold test on PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL ACC] 0.9041+-0.0398 
+
+LEG4FD 10-fold test on PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL PRECISION] 0.9006+-0.0425 
+
+LEG4FD 10-fold test on PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL RECALL] 0.9035+-0.0451 
+
+LEG4FD 10-fold test on PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL F1] 0.8953+-0.0428 
+
+LEG4FD 10-fold test on PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL AUC] 0.9035+-0.0451 
+
+LEG4FD 10-fold test on PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL APR] 0.7972+-0.0772 
+
+LEG4FD 10-fold test on PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL ACC] 0.8939+-0.0507 
+
+LEG4FD 10-fold test on PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL PRECISION] 0.8871+-0.0470 
+
+LEG4FD 10-fold test on PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL RECALL] 0.8902+-0.0542 
+
+LEG4FD 10-fold test on PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL F1] 0.8846+-0.0533 
+
+LEG4FD 10-fold test on PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL AUC] 0.8902+-0.0542 
+
+LEG4FD 10-fold test on PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL APR] 0.7825+-0.0909 
+

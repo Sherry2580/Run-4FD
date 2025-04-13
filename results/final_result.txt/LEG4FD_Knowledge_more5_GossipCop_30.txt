@@ -1,0 +1,24 @@
+LEG4FD 10-fold test on Knowledge_more5_GossipCop_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL ACC] 0.8155+-0.0229 
+
+LEG4FD 10-fold test on Knowledge_more5_GossipCop_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL PRECISION] 0.7414+-0.0475 
+
+LEG4FD 10-fold test on Knowledge_more5_GossipCop_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL RECALL] 0.7496+-0.0306 
+
+LEG4FD 10-fold test on Knowledge_more5_GossipCop_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL F1] 0.7263+-0.0275 
+
+LEG4FD 10-fold test on Knowledge_more5_GossipCop_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL AUC] 0.7496+-0.0306 
+
+LEG4FD 10-fold test on Knowledge_more5_GossipCop_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL APR] 0.4147+-0.0393 
+
+LEG4FD 10-fold test on Knowledge_more5_GossipCop_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL ACC] 0.8225+-0.0204 
+
+LEG4FD 10-fold test on Knowledge_more5_GossipCop_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL PRECISION] 0.7857+-0.0844 
+
+LEG4FD 10-fold test on Knowledge_more5_GossipCop_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL RECALL] 0.7575+-0.0391 
+
+LEG4FD 10-fold test on Knowledge_more5_GossipCop_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL F1] 0.7328+-0.0281 
+
+LEG4FD 10-fold test on Knowledge_more5_GossipCop_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL AUC] 0.7575+-0.0391 
+
+LEG4FD 10-fold test on Knowledge_more5_GossipCop_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL APR] 0.4213+-0.0478 
+

@@ -1,0 +1,36 @@
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL ACC] 0.8918+-0.0438 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL PRECISION] 0.8884+-0.0445 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL RECALL] 0.8815+-0.0573 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL F1] 0.8758+-0.0547 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL AUC] 0.8815+-0.0573 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL APR] 0.7634+-0.0993 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL ACC] 0.8918+-0.0448 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL PRECISION] 0.8891+-0.0493 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL RECALL] 0.8927+-0.0384 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL F1] 0.8829+-0.0474 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL AUC] 0.8927+-0.0384 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL APR] 0.7740+-0.0950 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL ACC] 0.8857+-0.0400 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL PRECISION] 0.8773+-0.0389 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL RECALL] 0.8898+-0.0441 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL F1] 0.8744+-0.0384 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL AUC] 0.8898+-0.0441 
+
+LEG4FD 10-fold test on Knowledge_llmchoose_PolitiFact-50-n-true_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL APR] 0.7520+-0.0584 
+

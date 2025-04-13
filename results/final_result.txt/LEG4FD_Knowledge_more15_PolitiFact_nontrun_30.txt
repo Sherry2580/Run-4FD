@@ -1,0 +1,12 @@
+LEG4FD 10-fold test on Knowledge_more15_PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL ACC] 0.9020+-0.0374 
+
+LEG4FD 10-fold test on Knowledge_more15_PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL PRECISION] 0.8944+-0.0402 
+
+LEG4FD 10-fold test on Knowledge_more15_PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL RECALL] 0.9008+-0.0390 
+
+LEG4FD 10-fold test on Knowledge_more15_PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL F1] 0.8926+-0.0394 
+
+LEG4FD 10-fold test on Knowledge_more15_PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL AUC] 0.9008+-0.0390 
+
+LEG4FD 10-fold test on Knowledge_more15_PolitiFact_nontrun_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL APR] 0.7862+-0.0678 
+

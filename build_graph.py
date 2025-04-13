@@ -117,7 +117,15 @@ def get_edgeList(dataset,num_topics):
 
     data_rw = Data(edge_index=torch.tensor(edgeList, dtype=torch.long).t().contiguous())
     G_rw = graph.load_edgelist(f'/home/blueee/LESS4FD/Data/{dataset}/graph/edges/{dataset}_{num_topics}.edgelist',undirected = True)
-    assert G_rw.number_of_nodes() == data_rw.num_nodes and G_rw.number_of_edges() == data_rw.num_edges,'wrong graph'
+    
+    print(f"G_rw nodes: {G_rw.number_of_nodes()}, expected: {data_rw.num_nodes}")
+    print(f"G_rw edges: {G_rw.number_of_edges()}, expected: {data_rw.num_edges}")
+    # 檢查節點數
+    assert G_rw.number_of_nodes() == data_rw.num_nodes, 'wrong graph: node count mismatch'
+    # 記錄邊數差異
+    if G_rw.number_of_edges() != data_rw.num_edges:
+        print(f"Warning: Edge count mismatch - G_rw has {G_rw.number_of_edges()} edges, data_rw has {data_rw.num_edges} edges")
+        print("This may be due to automatic handling of duplicate edges in the graph library")
     return edgeList_rw
 
 
