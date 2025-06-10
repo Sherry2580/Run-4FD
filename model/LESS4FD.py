@@ -249,6 +249,10 @@ def validation(y_final, labels, idx, metric, fold):
     metric.metrics['aucs'][f'fold{fold+1}'].append(roc_auc_score(labels.cpu(), y_pred.cpu(), average='macro'))
     
     y_test = y_final.cpu()[idx]
+    if torch.isnan(y_test).any():
+        print(f"[WARNING] Fold {fold}: y_test contains NaN, skipping ROC curve")
+        return [None, None, None, 0.0]
+
     fpr, tpr, thresholds = roc_curve(labels.cpu(), y_test.cpu()[:, 1])
     roc_auc = auc(fpr, tpr)
     auc_list = [fpr, tpr, thresholds, roc_auc]

@@ -1,0 +1,12 @@
+LEG4FD 10-fold test on KDD2020_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL ACC] 0.7412+-0.0519 
+
+LEG4FD 10-fold test on KDD2020_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL PRECISION] 0.7632+-0.0469 
+
+LEG4FD 10-fold test on KDD2020_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL RECALL] 0.7378+-0.0603 
+
+LEG4FD 10-fold test on KDD2020_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL F1] 0.7286+-0.0558 
+
+LEG4FD 10-fold test on KDD2020_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL AUC] 0.7378+-0.0603 
+
+LEG4FD 10-fold test on KDD2020_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL APR] 0.5930+-0.0652 
+

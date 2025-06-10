@@ -1,0 +1,12 @@
+LEG4FD 10-fold test on Liar_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL ACC] 0.7250+-0.0395 
+
+LEG4FD 10-fold test on Liar_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL PRECISION] 0.7394+-0.1104 
+
+LEG4FD 10-fold test on Liar_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL RECALL] 0.6465+-0.0458 
+
+LEG4FD 10-fold test on Liar_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL F1] 0.6289+-0.0373 
+
+LEG4FD 10-fold test on Liar_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL AUC] 0.6465+-0.0458 
+
+LEG4FD 10-fold test on Liar_epochs_200_cr_0.5_lgk_5_ggk_25_ce_0.5: [FINAL APR] 0.3900+-0.0371 
+
